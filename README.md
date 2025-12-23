@@ -1,6 +1,7 @@
 # Freeway Vehicle Detection (Ultralytics YOLO + OpenCV)
 
 以台灣高速公路即時監視器 MJPEG 串流為來源，使用 Ultralytics YOLO（v8/v11 皆可）偵測車輛並在畫面上畫框（車、卡車、巴士、機車），支援 GPU 加速與視窗放大。
+<img width="818" height="523" alt="image" src="https://github.com/user-attachments/assets/758eb035-842c-4bca-b022-f4b1527bdc04" />
 
 ## 需求
 - Windows + Python 3.10 或 3.11（強烈建議；Torch 對過新版本支援度有限）
